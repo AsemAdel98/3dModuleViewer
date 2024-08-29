@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "\\dist\\3d-module-viewer\\browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
